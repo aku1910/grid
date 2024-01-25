@@ -1,0 +1,87 @@
+.container{
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 305px 455px 455px 305px;
+    
+}
+.box{
+    border: 2px solid black;
+}
+
+.container1{
+    display: grid;
+    grid-template-columns: 305px 455px 455px 305px;
+     grid-template-rows: 130px;
+}
+.box1{
+    border: 2px solid yellow;
+    display: grid;
+   
+
+}
+
+.container2{
+    background-color: green;
+    display: grid;
+    grid-template-columns: 305px 455px 455px 305px ;
+     grid-template-rows: 240px;
+}
+.box2{
+    border: 2px solid black;
+}
+
+.container3{
+    display: grid;
+    grid-template-columns: 305px 455px 455px 305px;
+     grid-template-rows: 170px;
+}
+.box3{
+    border: 2px solid yellow;
+    display: grid;
+   
+
+}
+.container4{
+    display: grid;
+    grid-template-columns: 305px 455px 455px 305px;
+     grid-template-rows: 170px;
+     background-color: purple;
+}
+.box4{
+    border: 2px solid yellow;
+    display: grid;
+   
+
+}
+.container5{
+    display: grid;
+    grid-template-columns: 305px 455px 455px 305px;
+     grid-template-rows: 170px;
+}
+.box5{
+    border: 2px solid yellow;
+    display: grid;
+   
+
+}
+.container6{
+    display: grid;
+    background-color: brown;
+    grid-template-columns: 305px 455px 455px 305px;
+     grid-template-rows: 170px;
+}
+.box6{
+    border: 2px solid yellow;
+    display: grid;
+   
+
+}
+.container7{
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 305px 455px 455px 305px;
+    
+}
+.box7{
+    border: 2px solid black;
+}
